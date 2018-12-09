@@ -1,2 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 	I can loose my computer or my disk can crash
+
+Describe the differences between branches, clones and forks.
+	Branch: local computer
+	Clone: copy from remote to local
+	Fork: copy from remote to anoter remote
