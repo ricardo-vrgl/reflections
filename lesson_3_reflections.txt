@@ -5,3 +5,6 @@ Describe the differences between branches, clones and forks.
 	Branch: local computer
 	Clone: copy from remote to local
 	Fork: copy from remote to anoter remote
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Tracking
